@@ -1,1 +1,1 @@
-# Basketball-Offence-and-Defence-Strategies
+# Basketball Offence and Defence Strategies
